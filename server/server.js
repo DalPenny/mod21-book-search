@@ -7,8 +7,8 @@ const routes = require('./routes');
 const { ApolloServer } = require('apollo-server-express');
 
 // Import the two parts of a GraphQL schema
-const { typeDefs, resolvers } = require('./schemas');
-const db = require('./config/connection');
+const { typeDefs, resolvers } = require('./schema');
+
 const { authMiddleware } = require('./utils/auth');
 
 
