@@ -17,12 +17,13 @@ const resolvers = {
     },
 
     Mutation: {
-        addUser: async (parent, {name, email,password } ) => {
-            const user = await User.create({name, email, password});
+        addUser: async (parent, { name, email, password }) => {
+            const user = await User.create({ name, email, password });
             const token = signToken(user);
 
             return { token, user };
         },
+
         login: async (parent, { email, password }) => {
             const user = await User.findOne({ email });
 
@@ -39,6 +40,29 @@ const resolvers = {
             const token = signToken(user);
             return { token, user };
         },
+
+        saveBook: async (parent, { bookData }, context) => {
+            if (context.user) {
+                const updateUser = await User.findByIdAndUpdate(
+                    { _id: context.user._id },
+                    { $push: { savedBooks: bookData } },
+                    { new: true }
+                );
+                return updateUser;
+            }
+        },
+
+        removeBook: async (parent, { bookId }, context) => {
+            if (context.user) {
+                const updateUser = await User.findOneAndUpdate(
+                    { _id: context.user._id },
+                    { $pull: { savedBooks: bookId } },
+                    { new: true }
+                );
+                return updateUser;
+            }
+        },
+
     },
 };
 
