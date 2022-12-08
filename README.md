@@ -8,6 +8,7 @@
   * [Usage](#usage)
   * [Contributing](#contributing)
   * [Tests](#tests)
+  * [Screenshots](#screenshots)
   * [Github](#github)
   * [Email Address](#email)
   * [Licenses](#licenses)
@@ -29,6 +30,8 @@
   
   ## Tests
   n/a
+  
+  ## Screenshots
   
   ## Github
   Have questions about this project?  
