@@ -33,6 +33,20 @@
   
   ## Screenshots
   
+   <img width="1440" alt="Screen Shot" src="public/images/scrn1.jpg">
+   
+   <img width="1440" alt="Screen Shot" src="public/images/scrn2.jpg">
+   
+   <img width="1440" alt="Screen Shot" src="public/images/scrn3.jpg">
+   
+   <img width="1440" alt="Screen Shot" src="public/images/scrn4.jpg">
+   
+   <img width="1440" alt="Screen Shot" src="public/images/scrn5.jpg">
+    
+   <img width="1440" alt="Screen Shot" src="public/images/scrn6.jpg">
+   
+   <img width="1440" alt="Screen Shot" src="public/images/scrn7.jpg">
+  
   ## Github
   Have questions about this project?  
   GitHub: https://github.com/DalPenny  
