@@ -34,19 +34,19 @@
   
   ## Screenshots
   
-   <img width="1440" alt="Screen Shot" src="public/images/scrn1.png">
+   <img width="1440" alt="Screen Shot" src="client/public/images/scrn1.png">
    
-   <img width="1440" alt="Screen Shot" src="public/images/scrn2.png">
+   <img width="1440" alt="Screen Shot" src="client/public/images/scrn2.png">
    
-   <img width="1440" alt="Screen Shot" src="public/images/scrn3.png">
+   <img width="1440" alt="Screen Shot" src="client/public/images/scrn3.png">
    
-   <img width="1440" alt="Screen Shot" src="public/images/scrn4.png">
+   <img width="1440" alt="Screen Shot" src="client/public/images/scrn4.png">
     
-   <img width="1440" alt="Screen Shot" src="public/images/scrn5.png">
+   <img width="1440" alt="Screen Shot" src="client/public/images/scrn5.png">
   
-   <img width="1440" alt="Screen Shot" src="public/images/scrn6.png">
+   <img width="1440" alt="Screen Shot" src="client/public/images/scrn6.png">
    
-   <img width="1440" alt="Screen Shot" src="public/images/scrn7.png">
+   <img width="1440" alt="Screen Shot" src="client/public/images/scrn7.png">
    
  
  ## Application
