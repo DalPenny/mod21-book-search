@@ -1,5 +1,9 @@
 {
   "name": "googlebooks-app",
+  "engines": {
+    "node": "16.17.0",
+    "npm": "8.15.0"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
@@ -20,8 +24,5 @@
     "apollo-server-express": "^2.15.0",
     "apollo-client":"2.6.10",
 "graphql": "^15.5.2"
-  },
-  "engines": {
-"node": "16.x"
   }
 }
