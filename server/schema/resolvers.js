@@ -6,7 +6,7 @@ const resolvers = {
     Query: {
         me: async (parent, args, context) => {
             if (context.user) {
-                const userData = await User.findOne({ _id: context.user.id }).select('-password');
+                const userData = await User.findOne({ _id: context.user.id });
 
                 return userData;
             }
