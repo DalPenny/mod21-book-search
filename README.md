@@ -34,19 +34,20 @@
   
   ## Screenshots
   
-   <img width="1440" alt="Screen Shot" src="[public/images/scrn1.jpg](https://github.com/DalPenny/mod21-book-search/blob/80148d6361c260eab24da94bac5f14eb6ab2a221/client/public/images/scrn1.jpg)">
+   <img width="1440" alt="Screen Shot" src="public/images/scrn1.png">
    
-   <img width="1440" alt="Screen Shot" src="[public/images/scrn2.jpg](https://github.com/DalPenny/mod21-book-search/blob/80148d6361c260eab24da94bac5f14eb6ab2a221/client/public/images/scrn2.jpg)">
+   <img width="1440" alt="Screen Shot" src="public/images/scrn2.png">
    
-   <img width="1440" alt="Screen Shot" src="[public/images/scrn3.jpg](https://github.com/DalPenny/mod21-book-search/blob/80148d6361c260eab24da94bac5f14eb6ab2a221/client/public/images/scrn3.jpg)">
+   <img width="1440" alt="Screen Shot" src="public/images/scrn3.png">
    
-   <img width="1440" alt="Screen Shot" src="[public/images/scrn4.jpg"](https://github.com/DalPenny/mod21-book-search/blob/80148d6361c260eab24da94bac5f14eb6ab2a221/client/public/images/scrn4.jpg)">
-   
-   <img width="1440" alt="Screen Shot" src="[public/images/scrn5.jpg](https://github.com/DalPenny/mod21-book-search/blob/80148d6361c260eab24da94bac5f14eb6ab2a221/client/public/images/scrn5.jpg)">
+   <img width="1440" alt="Screen Shot" src="public/images/scrn4.png">
     
-   <img width="1440" alt="Screen Shot" src="[public/images/scrn6.jpg](https://github.com/DalPenny/mod21-book-search/blob/80148d6361c260eab24da94bac5f14eb6ab2a221/client/public/images/scrn6.jpg)">
+   <img width="1440" alt="Screen Shot" src="public/images/scrn5.png">
+  
+   <img width="1440" alt="Screen Shot" src="public/images/scrn6.png">
    
-   <img width="1440" alt="Screen Shot" src="[public/images/scrn7.jpg](https://github.com/DalPenny/mod21-book-search/blob/80148d6361c260eab24da94bac5f14eb6ab2a221/client/public/images/scrn7.jpg)">
+   <img width="1440" alt="Screen Shot" src="public/images/scrn7.png">
+   
  
  ## Application
  https://boiling-springs-99499.herokuapp.com/
